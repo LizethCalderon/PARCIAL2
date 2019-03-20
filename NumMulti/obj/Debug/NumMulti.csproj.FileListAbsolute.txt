@@ -1,0 +1,1 @@
+c:\users\lab3\documents\visual studio 2013\Projects\NumMulti\NumMulti\bin\Debug\NumMulti.exe.config
